@@ -1,0 +1,11 @@
+<resources>
+    <string name="name">4Minus1Celine</string>
+    <string name="app_name">4Minus1Celine</string>
+    <string name="button_send">Translate</string>
+    <string name="button_main">Main</string>
+    <string name="button_quiz">Quiz</string>
+    <string name="button_history">History</string>
+    <string name="edit_message">Enter message</string>
+
+
+</resources>
